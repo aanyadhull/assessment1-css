@@ -1,0 +1,30 @@
+h1{
+    color: red ;
+}
+ol{
+    color: rgba(194, 37, 37, 0.849) ;
+    font-size: medium;
+}
+h2{
+
+    color: red;
+    font-style: italic;
+}
+ul{
+   font-family: 'Courier New', Courier, monospace;
+   font-size: larger;
+   font-weight: 500;
+   color: rgba(194, 24, 24, 0.966);
+}
+p{
+    color: rgb(194, 47, 47);
+    font-weight: 400;
+    font-size: medium;
+}
+a{
+    color: red; 
+    font-style:italic ;
+    background-color:yellow;
+}
+
+    
