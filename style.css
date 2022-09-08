@@ -26,7 +26,7 @@ a{
     font-style:italic ;
     background-color:yellow;
 }
-a:link { 
+a:hover { 
     text-decoration: none;
 }
     
