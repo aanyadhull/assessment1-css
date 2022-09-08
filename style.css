@@ -26,5 +26,7 @@ a{
     font-style:italic ;
     background-color:yellow;
 }
-
+a:link { 
+    text-decoration: none;
+}
     
